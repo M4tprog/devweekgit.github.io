@@ -42,6 +42,7 @@
     width: 70%;
     border-radius: 100%;
     margin-bottom: 5%;
+    margin-top: 5%;
 }
 
 .name {
@@ -50,18 +51,6 @@
     letter-spacing: 2px;
     text-transform: uppercase;
     font-weight: 700;
-}
-
-.profile .profile-image {
-    width: 100%;
-    border-radius: 100%;
-}
-
-.name {
-    color: #D6DBDF;
-    font-size: 30px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
 }
 
 .profession {
@@ -119,7 +108,7 @@
 }
 
 .right-title {
-    color: #eeeeee;
+    color: #ffff;
     font-weight: 900;
     font-size: 30px;
 }
